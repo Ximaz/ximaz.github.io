@@ -21,7 +21,7 @@ Languages I'm currently learning :
 
 <div align="center">
 
-I work on many kind of project such as a [C stack implementation](https://github.com/Ximaz/stack), a [Kaiheila JS API](https://github.com/Ximaz/kaiheila.js), a [Request JS module](https://github.com/Ximaz/requests) (XHR wrapper), and so on. Go check my [repositories](https://github.com/Ximaz?tab=repositories) to see more. :)
+I work on many kind of project such as a <a href="https://github.com/Ximaz/stack" target="_BLANK">C Stack implementation</a>, a <a href="https://github.com/Ximaz/kaiheila.js" target="_BLANK">JS Kaiheila API</a>, a <a href="https://github.com/Ximaz/requests" target="_BLANK">Client request module (XHR wrapper)</a>, and so on. Go check my <a href="https://github.com/Ximaz?tab=repositories" target="_BLANK">repositories</a> to see more. :)
 
 </div>
 
@@ -31,10 +31,10 @@ I work on many kind of project such as a [C stack implementation](https://github
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ximaz&count_private=true&show_icons=true&theme=dracula&hide_border=true&hide_title=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ximaz&count_private=true&show_icons=true&theme=dracula&hide_border=true&hide_title=true">
 
-![](https://github-readme-stats.vercel.app/api?username=Ximaz&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=Ximaz&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximaz&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ximaz&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dracula">
 
 </div>
