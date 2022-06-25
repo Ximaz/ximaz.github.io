@@ -1,16 +1,13 @@
-title: Ximaz Website
-email: obvious.ly.dev@gmail.com
-description: This website contains all my GitHub project to easily promote them.
-# The subpath of the website
-baseurl: "/"
-# The base hostname and protocol
-url: "https://ximaz.github.io"
-twitter_username: _Ximaz
-github_username: ximaz
+title: "Ximaz Website"
+email: "obvious.ly.dev@gmail.com"
+description: "This website contains all my GitHub project to easily promote them."
+baseurl: "/"                   # The subpath of the website
+url: "https://ximaz.github.io" # The base hostname and protocol
+twitter_username: "_Ximaz"
+github_username: "Ximaz"
 
 # Build settings
-markdown: kramdown
-theme: minima
+markdown: "kramdown"
+theme: "minima"
 plugins:
   - jykyll-feed
-
