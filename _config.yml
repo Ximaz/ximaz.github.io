@@ -8,6 +8,6 @@ github_username: "Ximaz"
 
 # Build settings
 markdown: "kramdown"
-theme: "minima"
+theme: jekyll-theme-hacker
 plugins:
   - jykyll-feed
