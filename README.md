@@ -1,37 +1,65 @@
-# Hi everyone !
+# 👋 Hi folks !
 
-I'm **Ximaz**, a french full stack developper.
+### 👤 A bit about myself
+I'm Malo, a french developer since my 10's.
+I like to automate things because I'm lazy.
+I like toreverse engineer both applications and APIs because I don't like being restrained.
+I'm currently a student at Epitech at Lille (promo 2027).
 
-Languages I master :
-- ``Python``,
-- ``C``,
-- ``Assembly Intel x86 (NASM)``.
-- ``JavaScript`` / ``Node JS`` / ``TypeScript``,
-- ``HTML`` / ``CSS`` / ``PHP``,
-- ``Bash``.
+### ⚙️ Some projects I made
 
-<div align="center"><img src="https://raw.githubusercontent.com/Ximaz/assets/main/images/Hacker_Man.gif"></div>
+Remember when I said I don't like to be restrained ? Well, I don't like to have to create an account on a website to use it. I want to feel free and fetch data about people without having to log me in and give my data to those companies.
 
-<br>
+- [My own Instagram API (no account needed)](https://github.com/Ximaz/instagram-api) : Scrap biographies, posts, number of follows / following people, and so on without an Instagram account.
 
-# Some projects
+- [My own Instagram content downloader](https://github.com/Ximaz/instagram-downloader) : Download highlights preview, Instagram pictures and videos without an Instagram account.
 
-<div align="center">
+- [An Intel x8086 NASM DosBox Clock Reader](https://github.com/Ximaz/intel_x8086_clock) : I didn't know `Intel x8086` until someone who saw I knew `Intel x86` asked me if I could help them to read clock from a DosBox in assembly `Intel x8086`, which obviously I help.
 
-I work on many kind of project such as a [Kaiheila JS API](https://github.com/Ximaz/kaiheila.js), a [Request JS module](https://github.com/Ximaz/requests) (XHR wrapper), and so on. Go check my [repositories](https://github.com/Ximaz?tab=repositories) to see more. :)
+- [An image loader which counters Microsoft Edge `Search Image` button](https://github.com/Ximaz/edge-no-search-image) : For confidentiality purposes, especially in companies, you don't want your images to go all over the Internet. Yet, some Microsoft Edge users might misclick on this little `Search Image` button, which makes a reverse image search by taking their confidential image and trying to find it's source all over the Internet. This projects loads the image inside a canvas which Microsoft Edge won't interpret as an image, and then the `Search Image` button won't be diplayed.
 
-</div>
+- [A Grafana x Prometheus x Node Exporter installer so you don't have to do anything](https://github.com/Ximaz/grafatheus) : This allows you to easily deploy a monitoring solution so that you have nothing to do more than configuring once installed.
 
-<br>
+### 💻 Technologies that I use
 
-# Some stats
+##### Programming languages
 
-<div align="center">
+![](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=intel)
+![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=linux)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ximaz&count_private=true&show_icons=true&theme=dracula&hide_border=true&hide_title=true)
+##### Web development languages
 
-![](https://github-readme-stats.vercel.app/api?username=Ximaz&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula)
+![](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/HTML%205-000000?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/CSS%203-000000?style=for-the-badge&logo=css3)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ximaz&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dracula)
+##### Workflow platforms
 
-</div>
+![](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=github)
+
+##### Containers
+
+![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+
+##### Databases
+
+![](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+
+##### Frameworks & Libraries
+
+![](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Node%20JS-000000?style=for-the-badge&logo=node.js)
+![](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron)
+![](https://img.shields.io/badge/Express%20JS-000000?style=for-the-badge&logo=express)
+
+### ✨ Contact
+
+##### You can contact me by clicking one of those buttons
+
+[![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/malo-durand/)
+[![](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail)](mailto:malo.durand@epitech.eu)
