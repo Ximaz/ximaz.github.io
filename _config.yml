@@ -1,9 +1,8 @@
 title: "Ximaz"
-email: "obvious.ly.dev@gmail.com"
+email: "malo.durand@epitech.eu"
 description: "This website contains all my GitHub project to easily promote them."
 baseurl: "/"                   # The subpath of the website
 url: "https://ximaz.github.io" # The base hostname and protocol
-twitter_username: "_Ximaz"
 github_username: "Ximaz"
 
 # Build settings
